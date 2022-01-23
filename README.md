@@ -21,3 +21,4 @@ Conhecimentos em HTML;
 Conhecimentos em CSS;
   <img align="left" alt="Paulo.PY" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> <br><br>
  
+  ![Snake animation](https://github.com/Elcezada/Elcezada/blob/output/github-contribution-grid-snake.svg)
