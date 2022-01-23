@@ -5,7 +5,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Elcezada&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Elcezada&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true">
 </div>
 <br><br>
  
