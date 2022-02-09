@@ -9,17 +9,17 @@
 </div>
 <br><br>
  
-- 🔭 Experimentando Machine Learning com Python...
+- 🔭 Brincando com CSS...
 - 📚 Estudando JavaScript...
   
   
 <div style="display: inline_block"><br>
-Entusiasta em Python;
+Conhecimentos em Python;
   <img align="left" alt="Paulo.PY" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> <br><br>
 Conhecimentos em HTML;
-  <img align="left" alt="Paulo.PY" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> <br><br>
+  <img align="left" alt="Paulo.HTML" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> <br><br>
 Conhecimentos em CSS;
-  <img align="left" alt="Paulo.PY" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> <br><br>
+  <img align="left" alt="Paulo.CSS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> <br><br>
  
 
   ![Snake animation](https://github.com/Elcezada/Elcezada/blob/output/github-contribution-grid-snake.svg)
