@@ -9,8 +9,6 @@
 </div>
 <br><br>
 
-Teste
-  
 <div style="display: inline_block"><br>
 Conhecimentos em Python;
   <img align="left" alt="P.PY" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> <br><br>
